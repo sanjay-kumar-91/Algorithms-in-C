@@ -2,8 +2,6 @@
 
 > Use the link to open the code.
 
--[Program name](name of the file)
-
 -[Anagram of Strings](AnagramString.c)
 
 -[Armstrong Number Checker](Armstrong.c)
