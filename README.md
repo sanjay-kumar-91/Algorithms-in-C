@@ -1,6 +1,7 @@
 # Algorithms in C
 
 > Use the link to open the code.
+<hr>
 
 -[Anagram of Strings](AnagramString.c)
 
@@ -120,8 +121,6 @@
 
 -[Tower of Hanoi](tower_of_hanoi.c)
 
--[Ternary Search](Ternary Search in C.c)
-
 -[Two Pointer algorithm to find sum pairs](TwoPointer_to_find_sum_pairs.c)
 
 -[Heap Sort](heap_sort.c)
@@ -132,8 +131,4 @@
 
 -[Automorphic Number](automorphic.c)
 
--[Shortest Job First Scheduling Algorithm](Shortest Job First Scheduling Algorithm (SJF - Non-Preemptive).C)
-
 -[Floyd Warshall](floyd_warrshal.c)
-
--[Priority based Scheduling](Priority based Scheduling (Non - Preemptive).C)
